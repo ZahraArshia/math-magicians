@@ -1,10 +1,12 @@
 # Math Magicians
-This branch is the first step of the Math Magicians application. in this branch the environment and tools needed to develop a React application are setted up. In the following stepss, the actual application will be developed.
+This branch is the seconde step of the Math Magicians application. in this branch a React component developed that holds the core functionality: a calculator.
+In the next step the math logic will be added.
 
-![image](https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif)
+![image](https://user-images.githubusercontent.com/78906545/159479410-da0f4f24-38dc-41d2-8033-27628870837d.png)
+
 
 ## Built With
-- Reacat
+- React
 
 ## Getting Started
 **step1** cloning the project:
