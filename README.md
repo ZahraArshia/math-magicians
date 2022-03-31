@@ -11,6 +11,9 @@
 - see instructions to use in homepage:
 ![image](https://user-images.githubusercontent.com/78906545/160644203-1f5ac6e5-0b27-4a3c-bb5c-a9b6942486b6.png)
 
+## Live demo
+[live demo](https://peaceful-bonbon-ada13e.netlify.app/)
+
 ## Built With
 - React
 
