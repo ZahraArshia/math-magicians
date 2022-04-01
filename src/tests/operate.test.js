@@ -1,4 +1,5 @@
 import operate from '../logic/operate';
+import '@testing-library/jest-dom';
 
 describe('operate function check', () => {
   test('sum', () => {
