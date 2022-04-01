@@ -2,7 +2,7 @@ import { render, screen } from '@testing-library/react';
 import { BrowserRouter } from 'react-router-dom';
 import NavBar from '../components/NavBar';
 
-it('NavBar renders correctly', () => {
+test('NavBar renders accurately', () => {
   render(
     <BrowserRouter>
       <NavBar />
